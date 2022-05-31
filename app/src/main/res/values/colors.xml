@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#ecfafd</color>
+    <color name="colorPrimaryDark">#f6f6f6</color>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorAccent">#38c2ee</color>
+    <color name="colorAccentDark">#FF018786</color>
+    <color name="snackbar_error_color">#FF0000</color>
+    <color name="grey">#cccccc</color>
+    <color name="lightNavy">#0e1836</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="soft_black">#181A18</color>
+    <color name="colorPrimaryDarkConversation">#f5f5f5</color>
+    <color name="colorMessageView">#fcfcfc</color>
+    <color name="colorMessageReceived">#ececec</color>
+    <color name="colorMessageSend">#0084ff</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="green">#00FF00</color>
+    <color name="random">#002244</color>
+
+
+</resources>

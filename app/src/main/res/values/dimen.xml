@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginNormalTop">16dp</dimen>
+    <dimen name="marginLargeTop">60dp</dimen>
+    <dimen name="marginNormalStart">16dp</dimen>
+    <dimen name="marginNormalEnd">16dp</dimen>
+    <dimen name="marginLogo">45dp</dimen>
+</resources>
